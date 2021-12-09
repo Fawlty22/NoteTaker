@@ -29,8 +29,8 @@ Copyright 2021 Matthew Keys
 
 
   ## **Installation** 
-  To run this program locally, npm i. Then ensure your servers are up and running, and you should have your own locally hosted version of this project.  Alternatively, you can visit https://shielded-peak-32594.herokuapp.com/. <br>
-  You can also watch a short video on installation [here.](None)
+  To run this program locally, enter 'npm i' into your command line. Then, ensure your express servers are up and running, and you should have your own locally hosted version of this project.  Alternatively, you can visit https://shielded-peak-32594.herokuapp.com/. <br>
+  
 
 
   ## **Usage Information**
